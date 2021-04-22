@@ -164,7 +164,7 @@ sup {
 }
 
 a {
-  color: #f4623a;
+  
   text-decoration: none;
   background-color: transparent;
 }
@@ -10037,7 +10037,7 @@ hr.light {
   color: #212529;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
-  color: #6c757d;
+  color: #dacf3f;
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   font-size: 0.9rem;
@@ -10046,9 +10046,7 @@ hr.light {
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
   color: #f4623a;
 }
-#mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
-}
+
 @media (min-width: 992px) {
   #mainNav {
     box-shadow: none;
