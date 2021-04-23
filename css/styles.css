@@ -10040,9 +10040,7 @@ hr.divider {
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
   color: #e1f43a;
 }
-.icons{
-margin-bottom: 500px;  
-}
+
 @media (min-width: 992px) {
   #mainNav {
     box-shadow: none;
@@ -10143,6 +10141,6 @@ header.masthead h1 {
   background-position:80% 0;
    border: 2px solid #d8c3c3;
    position:relative;
-   bottom:50px;
+   bottom: 50px;
 }
 
